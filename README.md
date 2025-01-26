@@ -141,7 +141,7 @@ After running the program, a menu will appear in the console. The menu options a
     Enter your choice: 6
     Enter name1: Arya
     Enter name2: Jon
-    DFSfromTo(Arya, Jon): Arya, Jaime, Robert, Aemon, Grenn, Samwell, Mance, Craster, Karl, Gilly, Dalla, Qhorin, Rattleshirt, Styr, Val, Ygritte, Eddison, Janos, Alliser, Bowen, Thoros, Barristan, Stannis, Balon, Loras, Margaery, Olenna,       Davos, Cressen, Salladhor, Renly, Varys, Pycelle, Melisandre, Tyrion, Oberyn, Ellaria, Mace, Gregor, Sandor, Beric, Anguy, Gendry, Ilyn, Meryn, Elia, Bronn, Podrick, Petyr, Shae, Chataya, Kevan, Lancel, Doran, Joffrey, Tommen,               Myrcella, Brienne, Edmure, Brynden, Lothar, Roslin, Walder, Qyburn, Bran, Jon, 
+    DFSfromTo(Arya, Jon): Arya, Jaime, Robert, Aemon, Grenn, Samwell, Mance, Craster, Karl, Gilly, Dalla, Qhorin, Rattleshirt, Styr, Val, Ygritte, Eddison, Janos, Alliser, Bowen, Thoros, Barristan, Stannis, Balon, Loras, Margaery, Olenna, Davos, Cressen, Salladhor, Renly, Varys, Pycelle, Melisandre, Tyrion, Oberyn, Ellaria, Mace, Gregor, Sandor, Beric, Anguy, Gendry, Ilyn, Meryn, Elia, Bronn, Podrick, Petyr, Shae, Chataya, Kevan, Lancel, Doran, Joffrey, Tommen, Myrcella, Brienne, Edmure, Brynden, Lothar, Roslin, Walder, Qyburn, Bran, Jon, 
 
     ```
 
