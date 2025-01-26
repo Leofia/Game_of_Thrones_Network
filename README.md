@@ -25,21 +25,14 @@ This project was developed for the COMP2102 Data Structures and Algorithms cours
 *   **Data Structures:** `HashMap`, Adjacency Matrix, `PriorityQueue`, `Queue`, `List`.
 *   **Algorithms:** DFS, Dijkstra, BFS.
 
-## Setup and Execution
+## Setup 
 
 1.  **Required Files:** Ensure that the following files are in the same directory:
     *   `Game_of_Thrones_Network.java`
     *   `Graph.java`
     *   `SeriesCharacter.java`
 2.  **Data File:** Place the `test2.txt` file in the project directory. This file contains the character relationship data.
-3.  **Compilation:**
-    ```bash
-    javac *.java
-    ```
-4.  **Execution:**
-    ```bash
-    java game_of_thrones_network.Game_of_Thrones_Network
-    ```
+
 
 ## Usage
 
